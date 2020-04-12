@@ -49,6 +49,8 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Zadanie\1_Zadanie_algorytm.doc" />
+    <None Include="Zadanie\diagram zad2 v4%281%29.drawio" />
+    <None Include="Zadanie\diagram zad2 v4.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
